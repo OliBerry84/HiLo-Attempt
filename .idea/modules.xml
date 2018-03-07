@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HiLoCardGame.iml" filepath="$PROJECT_DIR$/.idea/modules/HiLoCardGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HiLoCardGame_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HiLoCardGame_main.iml" group="HiLoCardGame" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HiLoCardGame_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HiLoCardGame_test.iml" group="HiLoCardGame" />
+    </modules>
+  </component>
+</project>
